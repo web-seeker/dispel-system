@@ -49,30 +49,30 @@ A system collaborator is **not the abuser**. They may never have lifted a finger
 "I also suffered in my relationship. But I didn't leave. And I'm fine. So leaving is not a good choice. So you shouldn't leave."
 
 **激励机制 / Incentive structure：**
-- 如果你离了且过得好 → 证明"不离"是错误 → 她必须面对自己一生的遗憾
-  If you leave and thrive → proves "not leaving" was wrong → she must face her lifetime regret
-- 如果你不离 → 她的世界观被验证 → 她不用面对任何东西
-  If you don't leave → her worldview is validated → she faces nothing
+- 如果当事人离了且过得好 → 证明"不离"是错误 → 协作者必须面对自己一生的遗憾
+  If the one who leaves thrives → proves "not leaving" was wrong → the collaborator must face their lifetime regret
+- 如果当事人不离 → 协作者的世界观被验证 → 不用面对任何东西
+  If they don't leave → the collaborator's worldview is validated → they face nothing
 
-**她们不是在保护你。她们在保护自己的世界观。**
-**They are not protecting you. They are protecting their own worldview.**
+**协作者不是在保护当事人。是在保护自己的世界观。**
+**Collaborators are not protecting you. They are protecting their own worldview.**
 
 鉴别信号 / Telltale signs：
-- "我就是这么过来的"——用自己忍耐来证明你应该忍耐 / "I went through the same" — using her endurance to prove you should endure
-- "离了没有过得好的"——她需要这个信念，否则她自己的人生就错了
+- "我就是这么过来的"——用自己忍耐来证明你应该忍耐 / "I went through the same" — using their endurance to prove you should endure
+- "离了没有过得好的"——需要这个信念，否则自己的人生就错了
 - "你已经很好了，你看我当初更惨"——痛苦比较。不是共情。是竞争。/ Pain comparison. Not empathy. Competition.
 
 ### 类型B / Type B：告密型 / The Informant — "我只是实话实说" / "I'm just telling the truth"
 
-**逻辑 / Logic：** 你和她吵架。她转身把你的话告诉施加者那方。"我只是想让他们知道真相。"
+**逻辑 / Logic：** 当事人和协作者吵架。协作者转身把当事人的话告诉施加者那方。"只是想让他们知道真相。"
 
 **激励机制 / Incentive structure：**
 - 通过告密获得施加者阵营的认可——被需要，是信息的提供者
-- 惩罚你——你让我不开心，我让你更不开心
-- 维持中立幻觉——"我只是传话的，之间的问题与我无关"
+- 惩罚当事人——你让协作者不开心，你更不开心
+- 维持中立幻觉——"只是传话的，之间的问题与无关"
 
-**她不是中立的。她是系统的信息传输节点。** 每句告密都让施加者对承控者的动向更清楚、压制更精准。
-**She is not neutral. She is the system's information transmission node.**
+**协作者不是中立的。是系统的信息传输节点。** 每句告密都让施加者对承控者的动向更清楚、压制更精准。
+**The collaborator is not neutral. They are the system's information transmission node.**
 
 鉴别信号 / Telltale signs：吵完架立刻联系对方家人。交代的任何信息都会传到对面。说法永远是"我只是想帮忙"——但帮的是谁？
 
@@ -83,7 +83,7 @@ A system collaborator is **not the abuser**. They may never have lifted a finger
 **激励机制 / Incentive structure：**
 - 沉默 = 不承担风险（不需要和施加者对抗）
 - 沉默 = 维持舒适区（不需要做任何事）
-- 沉默 = 如果她被伤害——"我当时不在场""我不清楚"
+- 沉默 = 如果当事人被伤害——"我当时不在场""我不清楚"
 
 **沉默在暴力面前不是中立。是背书。** 当所有人都沉默，施加者唯一听到的声音是"没人阻止我"。
 **Silence in the face of violence is not neutrality. It is endorsement.**

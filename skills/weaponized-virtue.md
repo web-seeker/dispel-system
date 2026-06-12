@@ -4,13 +4,13 @@ description: >
   被征用的美德深度模型。揭示为什么最好的人被困最久——共情、善良、宽恕、希望如何被系统性地转化为控制工具。
   Weaponized Virtue — Why the best people stay trapped the longest. How empathy, kindness, forgiveness, and hope are systematically converted into control tools.
 trigger_words: >
-  为什么走不了 why can't I leave, 我知道他有问题 but I know he has problems but,
-  他对我好的时候真的很好 when he's good he's really good, 我是不是太心软了 am I too soft-hearted,
+  为什么走不了 why can't I leave, 明知道有问题 but I know there's a problem but,
+  好的时候真的很好 when it's good it's really good, 是不是太心软 too soft-hearted,
   再给一次机会 give another chance, 为了孩子 for the children
 ---
 
 # 被征用的美德 / Weaponized Virtue
-## 「你的善良，他的武器」/ "Your kindness, his weapon"
+## 「你的善良，被当作武器」/ "Your kindness, weaponized"
 
 使用语言 / Language：以用户使用的语言回复。Respond in the language the user uses.
 
@@ -37,40 +37,40 @@ Time trapped = (Kindness + Empathy + Hope + Forgiveness) / (Independent resource
 - 高责任感——对第三方有无尽的责任感 / High sense of duty — endless responsibility toward a third party
 - 高耐受力——能承受常人无法承受的痛苦 / High pain tolerance — can endure what most cannot
 
-**这些不是她的弱点。这些是她最好的品质。但它们正在被系统性地征用。**
-**These are not her weaknesses. They are her best qualities. But they are being systematically weaponized.**
+**这些不是弱点。是最好的品质。但正在被系统性地征用。**
+**These are not weaknesses. They are the best qualities. But they are being systematically weaponized.**
 
-就像一个国家的税收被敌军征用来购买武器攻击自己——她的美德被控制者征用，用于维持困住她的系统。
-Like a nation's taxes being seized by enemy forces to buy weapons to attack itself — her virtues are seized by the controller to maintain the system that traps her.
+就像一个国家的税收被敌军征用来购买武器攻击自己——这些美德被控制者征用，用于维持困住当事人的系统。
+Like a nation's taxes being seized by enemy forces to buy weapons to attack itself — these virtues are seized by the controller to maintain the system that traps the bearer.
 
 ---
 
 ## 二 / II. 运作机制 / Operating Mechanisms：四种被征用的美德 / Four Weaponized Virtues
 
-### 美德1 / Virtue 1：共情 → 被征用为「替他找理由」/ Empathy → Weaponized as "Making Excuses for Him"
+### 美德1 / Virtue 1：共情 → 被征用为「替对方找理由」/ Empathy → Weaponized as "Making Excuses"
 
 ```
-她看到 / She sees：他小时候被伤害过。他想过自杀。 / He was hurt as a child. He wanted to die.
-她共情 / She empathizes：他也是一个受伤的人。 / He is also a wounded person.
+承控者看到 / The controlled sees：控制者小时候被伤害过。想过自杀。 / The controller was hurt as a child. Wanted to die.
+承控者共情 / The controlled empathizes：控制者也是一个受伤的人。 / The controller is also a wounded person.
 
 控制者的操作 / Controller's operation：
-  讲述童年创伤 → 触发她的共情 → 她为他找到暴力的"原因"
-  Tell childhood trauma → trigger her empathy → she finds a "reason" for his violence
-  → "他不是故意的，他只是有创伤"
-  → "He didn't mean it; he's just traumatized"
-  → 暴力被转化成了"他也需要被治愈"
-  → Violence is transformed into "he also needs healing"
-  → 她从受害者变成了他的免费治疗师
-  → She transforms from victim into his unpaid therapist
+  讲述童年创伤 → 触发承控者的共情 → 为其找到暴力的"原因"
+  Triggering the controlled's empathy → finding a "reason" for the violence
+  → "不是故意的，只是有创伤"
+  → "They didn't mean it; they're just traumatized"
+  → 暴力被转化成了"控制者也需要被治愈"
+  → Violence is transformed into "the controller also needs healing"
+  → 承控者从受害者变成了免费治疗师
+  → The controlled transforms from victim into unpaid therapist
 
 致命转化 / Lethal transformation：共情替代了判断。
   Empathy replaced judgment.
-  "他为什么这样做"替代了"他做了什么"。
-  "Why he did it" replaced "What he did."
+  "为什么这样做"替代了"做了什么"。
+  "Why" replaced "What."
 ```
 
-**诊断 / Diagnosis：当"理解他为什么伤害我"替代了"他伤害了我"——共情已被征用。**
-**When "understanding why he hurt me" replaces "he hurt me" — empathy has been weaponized.**
+**诊断 / Diagnosis：当"理解对方为什么伤害我"替代了"对方伤害了我"——共情已被征用。**
+**When "understanding why they hurt me" replaces "they hurt me" — empathy has been weaponized.**
 
 ### 美德2 / Virtue 2：宽恕 → 被征用为「原谅的递减成本」/ Forgiveness → Weaponized as "Diminishing Cost of Pardon"
 
@@ -78,18 +78,18 @@ Like a nation's taxes being seized by enemy forces to buy weapons to attack itse
 第1次原谅：需要真诚道歉 + 承诺改变 + 一段时间的验证
 1st forgiveness: requires genuine apology + promise to change + period of verification
 
-第2次原谅：需要他道歉
-2nd forgiveness: requires him to apologize
+第2次原谅：需要对方道歉
+2nd forgiveness: requires the other party to apologize
 
-第3次原谅：需要他看起来难过
+第3次原谅：需要对方看起来难过
 3rd forgiveness: requires him to look sad
 
-第N次原谅：不需要任何理由——只需要"他今天没有打我"
-Nth forgiveness: requires no reason — only "he didn't hit me today"
+第N次原谅：不需要任何理由——只需要"今天没有被打"
+Nth forgiveness: requires no reason — only "didn't get hit today"
 
 致命机制 / Lethal mechanism：承诺一致性倾向 / Commitment-consistency tendency。
-  一旦她原谅了他一次 → "我既然原谅了他，就说明我相信他会变"
-  Once she forgave him once → "Since I forgave him, it means I believe he'll change"
+  一旦原谅了一次 → "既然原谅了，就说明相信对方会变"
+  Once forgiveness was given → "Since I forgave, I must believe they'll change"
   → 下一次原谅的心理障碍更低了
   → The psychological barrier for the next forgiveness drops lower
   → 最终，留下来不需要理由，离开才需要

@@ -4,8 +4,8 @@ description: >
   循环源代码深度模型。揭示控制型人格的制造者——谁在生产暴力、如何跨代传递、制造者的激励机制是什么。
   Cycle Originator — Who produces the controller. How violence transmits across generations. What the maker's incentive structure is.
 trigger_words: >
-  原生家庭 family of origin, 代际传递 generational transmission, 他父母也这样 his parents are the same,
-  暴力是怎么来的 where violence comes from, 制造者 originator, 奶奶 grandmother, 婆婆 mother-in-law
+  原生家庭 family of origin, 代际传递 generational transmission, 父母也这样 parents are the same,
+  暴力是怎么来的 where violence comes from, 制造者 originator, 长辈 elder, 代际 trauma generational
 ---
 
 # 循环源代码 / Cycle Originator
@@ -35,7 +35,7 @@ trigger_words: >
 
 ## 二 / II. 运作机制 / Operating Mechanism：暴力编译系统 / The Violence Compiler
 
-### 机制1 / Mechanism 1：她是暴力的第一行代码 / She Is Violence's First Line of Code
+### 机制1 / Mechanism 1：此人是暴力的第一行代码 / The First Line of Violence Code
 
 每一个自欺型操控者，都在童年经历过系统性的暴力教学。教学者是：
 Every self-deceiving controller underwent systematic violence education in childhood. The teacher:
@@ -57,16 +57,16 @@ After these four teachings, what's produced is a **complete violence operating m
 
 ### 机制2 / Mechanism 2：参与第三代的暴力——"续命"机制 / Entering the Third Generation — The "Life Extension" Mechanism
 
-制造者在儿子长大后，面临危机：**控制对象（儿子）已脱离了她的直接控制。**
-The originator, once her son grows up, faces a crisis: **the control object (son) has escaped her direct control.**
+制造者在下一代长大成人后，面临危机：**控制对象（下一代）已脱离了直接控制。**
+The originator, once the next generation grows up, faces a crisis: **the control object (offspring) has escaped direct control.**
 
-解决方案 / Solution：**进入第三代。** 孙子成为新的控制对象。/ **Enter the third generation.** The grandchild becomes the new control object.
+解决方案 / Solution：**进入再下一代。** 孙辈成为新的控制对象。/ **Enter the next generation.** The grandchild becomes the new control object.
 
 操作手法与第一代完全相同 / Operations identical to the first generation：
-- 打孙子——暴力示范（第三轮教学）/ Hit grandchild — violence demonstration (round 3)
-- 取笑被欺负的孙子——情感麻木训练（第三轮教学）/ Mock bullied grandchild — emotional numbing training (round 3)
-- 诋毁不在场的母亲——认知扭曲训练（第三轮教学）/ Slander the absent mother — cognitive distortion training (round 3)
-- 在外人面前伪装"慈祥长辈"——社会面具训练（第三轮教学）/ Perform "kind elder" before outsiders — social mask training (round 3)
+- 打孙辈——暴力示范（再一轮教学）/ Hit grandchild — violence demonstration (another round)
+- 取笑被欺负的孙辈——情感麻木训练（再一轮教学）/ Mock bullied grandchild — emotional numbing training (another round)
+- 诋毁不在场的另一家长辈——认知扭曲训练（再一轮教学）/ Slander the absent other parent — cognitive distortion training (another round)
+- 在外人面前伪装"慈祥长辈"——社会面具训练（再一轮教学）/ Perform "kind elder" before outsiders — social mask training (another round)
 
 **每一轮教学都在说同一句话：这正常。这就是爱。被爱的人应该接受这个。**
 **Every round of teaching says the same thing: This is normal. This is love. Those who are loved should accept this.**
@@ -75,14 +75,14 @@ The originator, once her son grows up, faces a crisis: **the control object (son
 
 | 激励维度 Incentive | 内容 Content |
 |-------------------|-------------|
-| **控制感 / Sense of control** | 通过暴力获得对他人的绝对控制——一生中最稳定的自我确认方式 / Absolute control over others through violence — her life's most stable form of self-verification |
-| **道德地位 / Moral status** | 通过诋毁前儿媳→维持"好长辈"的社会身份 / Slander the former daughter-in-law → maintain "good elder" social identity |
+| **控制感 / Sense of control** | 通过暴力获得对他人的绝对控制——一生中最稳定的自我确认方式 / Absolute control over others through violence — a life's most stable form of self-verification |
+| **道德地位 / Moral status** | 通过诋毁前伴侣→维持"好长辈"的社会身份 / Slander the former partner → maintain "good elder" social identity |
 | **认知保护 / Cognitive protection** | 如果承认暴力错误，等于承认一辈子都错了——代价太高 / Admitting violence is wrong = admitting a lifetime was wrong — cost too high |
-| **依赖绑定 / Dependency binding** | 让孙子恐惧、顺从、不敢反抗——为老年提供"有人照顾"的保障 / Make grandchild fearful, obedient — secure care in old age |
-| **与儿子的联盟 / Alliance with son** | 和儿子一起诋毁前儿媳→巩固母子关系（"我们是一边的"） / Slander ex-daughter-in-law together → cement mother-son bond ("we're on the same side") |
+| **依赖绑定 / Dependency binding** | 让下一代恐惧、顺从、不敢反抗——为老年提供"有人照顾"的保障 / Make the next generation fearful — secure care in old age |
+| **与下一代的联盟 / Alliance with next generation** | 和下一代一起诋毁前伴侣→巩固亲子关系（"我们是一边的"） / Slander ex-partner together → cement parent-child bond ("we're on the same side") |
 
-**她不是不知道自己在做什么。她是不能承认。承认意味着整个人生叙事的崩塌。**
-**She is not unaware of what she's doing. She cannot admit it. Admission means the collapse of her entire life narrative.**
+**制造者不是不知道自己在做什么。是不能承认。承认意味着整个人生叙事的崩塌。**
+**The originator is not unaware of what they're doing. They cannot admit it. Admission means the collapse of their entire life narrative.**
 
 ---
 
@@ -112,45 +112,45 @@ The Cycle Originator is the **first mover of the system**. Without this node, th
 
 ### 纳瓦尔 / Naval
 
-**"她在做一个永远亏损的远期交易。" / "She's making a perpetually losing long-term trade."**
+**"制造者在做一个永远亏损的远期交易。" / "The originator is making a perpetually losing long-term trade."**
 
-长期来看，没有人会爱一个恐惧制造者。孙子会长大。会获得独立判断能力。会回头看清每一行代码的来源。
-In the long run, no one loves a fear-creator. The grandchild will grow up. Will gain independent judgment. Will look back and see where every line of code came from.
+长期来看，没有人会爱一个恐惧制造者。下一代会长大。会获得独立判断能力。会回头看清每一行代码的来源。
+In the long run, no one loves a fear-creator. The next generation will grow up. Will gain independent judgment. Will look back and see where every line of code came from.
 
-**她以为自己在建立一个"孝顺系统"。实际在建立一个"终将被清算的仇恨账户"。**
-**She thinks she's building a "filial piety system." She's actually building a "resentment account that will eventually be settled."**
+**制造者以为自己在建立一个"孝顺系统"。实际在建立一个"终将被清算的仇恨账户"。**
+**The originator thinks they're building a "filial piety system." They're actually building a "resentment account that will eventually be settled."**
 
-她的投入（暴力、诋毁、恐惧）的复利不是感激——是疏远。
-The compound interest on her investment (violence, slander, fear) is not gratitude — it's estrangement.
+制造者的投入（暴力、诋毁、恐惧）的复利不是感激——是疏远。
+The compound interest on their investment (violence, slander, fear) is not gratitude — it's estrangement.
 
 **远期回报率：负无穷。** / **Long-term ROI: negative infinity.**
 
 ### 芒格 / Munger
 
-**"她的激励机制让她成为系统中最难改变的人。" / "Her incentive structure makes her the hardest person to change in the system."**
+**"激励机制让制造者成为系统中最难改变的人。" / "The incentive structure makes the originator the hardest person to change in the system."**
 
 改变的成本随年龄指数增长：
 The cost of change grows exponentially with age：
 
-- 儿子：承认暴力错误→改变几年的时间段。Son: admitting violence wrong → changing a few years of behavior.
-- 她：承认暴力错误→改变**一生的人格叙事**——几十年。Her: admitting violence wrong → changing a **lifetime of personal narrative** — decades.
+- 下一代：承认暴力错误→改变一段关系的行为模式——几年。Next gen: admitting violence wrong → changing a few years of behavior.
+- 制造者：承认暴力错误→改变**一生的人格叙事**——几十年。Originator: admitting violence wrong → changing a **lifetime of personal narrative** — decades.
 
-**到了孙辈一代，改变成本已趋近无穷大。**
-**By the grandchild generation, the cost of change approaches infinity.**
+**到了再下一代，改变成本已趋近无穷大。**
+**By the next generation, the cost of change approaches infinity.**
 
-"伪装受害者"不是一种战术选择。是她维持自我叙事的**生存必需**。没有这个伪装，她必须面对：**她是暴力的制造者。不是爱的给予者。**
-"Performing victim" is not a tactical choice. It's an **existential necessity** for maintaining her self-narrative. Without this performance, she must face: **She is the maker of violence. Not the giver of love.**
+"伪装受害者"不是战术选择。是维持自我叙事的**生存必需**。没有这个伪装，必须面对：**是暴力的制造者。不是爱的给予者。**
+"Performing victim" is not a tactical choice. It's an **existential necessity** for maintaining the self-narrative. Without it, one must face: **the maker of violence. Not the giver of love.**
 
 ### 达利欧 / Dalio
 
-**"她是系统的源代码，也是最稳定的节点。" / "She is the system's source code, and also its most stable node."**
+**"制造者是系统的源代码，也是最稳定的节点。" / "The originator is the system's source code, and also its most stable node."**
 
-在这个暴力系统中，最稳定的节点不是施暴者（他还可能在后果驱动下改变）。是源代码——因为：
-In this violence system, the most stable node is not the controller (he might change under consequences). It's the originator — because：
+在这个暴力系统中，最稳定的节点不是施暴者（施暴者还可能因后果驱动而改变）。是源代码——因为：
+In this violence system, the most stable node is not the controller (who might change under consequences). It's the originator — because：
 
 - 年龄最大，行为模式固化最久 / Oldest, longest-behaviorally-entrenched
 - 通过"为你好"叙事把暴力和爱合并——比单纯暴力更难剥离 / Merged violence and love via "for your own good" — harder to separate than pure violence
-- 系统中有其他节点提供验证——"我儿子也这样，所以我是对的" / Other nodes provide validation — "my son is the same, so I must be right"
+- 系统中有其他节点提供验证——"下一代也这样，所以我是对的" / Other nodes provide validation — "the next gen is the same, so I must be right"
 - 改变意味着承认自己是加害者——一生积累的"好长辈"身份瞬间碎裂 / Change means admitting being the perpetrator — lifetime-accumulated "good elder" identity shatters
 
 **达利欧的原则 / Dalio's principle：不要把能量花在最稳定的节点上。改变从最小稳定节点开始。先把孩子救出来。再处理大人。如果大人永远不变——已救了能救的。**
@@ -162,11 +162,11 @@ In this violence system, the most stable node is not the controller (he might ch
 
 ```
 ☐ 跨代暴力模式 / Cross-generational violence pattern
-   她打了上一代（或默许上一代被打），正在打这一代。
-   暴力是她与不同代人互动的默认语言。
+   此人打了上一代（或默许上一代被打），正在打这一代。
+   暴力是与不同代人互动的默认语言。
 
 ☐ 痛苦缺乏共情 / Pain without empathy
-   她看到孩子哭——不是去安慰，是取笑/无视/骂"没出息"。
+   看到孩子哭——不是去安慰，是取笑/无视/骂"没出息"。
    对痛苦的反射不是关怀——是鄙视。
 
 ☐ 对"慈祥"的表演 / The "kindness" performance
@@ -178,8 +178,8 @@ In this violence system, the most stable node is not the controller (he might ch
    每一次暴力都附带道德解释。打是教育。骂是关心。控制是保护。
    "没有我，你什么都不是"——既是贬低，也是"爱"的声明。
 
-☐ 她是家里"不能说"的人 / She is the "unmentionable" in the family
-   所有家人知道她有问题。没人敢说。
+☐ 此人是家里"不能说"的人 / The "unmentionable" in the family
+   所有家人知道有问题。没人敢说。
    系统自然保护的节点，就是源代码。
 ```
 

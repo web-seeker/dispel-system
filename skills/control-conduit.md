@@ -5,12 +5,12 @@ description: >
   Control Conduit — How control continues through a third party after direct relationship ends. How the third party is turned into a weapon, a channel, and a new victim.
 trigger_words: >
   孩子被抢走 child taken away, 通过孩子控制我 controlling me through the child,
-  探视权 visitation rights, 抚养权 custody, 他利用孩子 he uses the child,
+  探视权 visitation rights, 抚养权 custody, 利用孩子 using the child,
   抚养费 child support, 离婚后 after divorce
 ---
 
 # 控制介质 / Control Conduit
-## 「你不是在保护他，你是在被穿过他继续挨打」/ "You're not protecting him. You're being hit through him."
+## 「你不是在保护他/她，你是在被穿过TA继续挨打」/ "You're not protecting them. You're being hit through them."
 
 使用语言 / Language：以用户使用的语言回复。Respond in the language the user uses.
 
@@ -43,7 +43,7 @@ A conduit can be a person (shared child, mutual friend, his family you still con
 
 ## 二 / II. 运作机制 / Operating Mechanisms：介质如何被武器化 / How the Conduit Is Weaponized
 
-### 机制1 / Mechanism 1：物理阻隔 / Physical Blockade — 让她"消失" / Making Her "Disappear"
+### 机制1 / Mechanism 1：物理阻隔 / Physical Blockade — 让承控者"消失" / Making One "Disappear"
 
 ```
 步骤1 / Step 1：获得介质的物理控制权（法律上或事实上）
@@ -52,28 +52,28 @@ A conduit can be a person (shared child, mutual friend, his family you still con
    Restrict controlled's contact with conduit — frequency, duration, location
 步骤3 / Step 3：每次接触设置障碍——变卦、缩短时间、有人旁监视
    Place obstacles at every contact — change terms, shorten, have someone monitor
-步骤4 / Step 4：时间推移 → 介质对承控者的记忆淡化 → "她很久没来了"
-   Time passes → conduit's memory of controlled fades → "she hasn't come in a long time"
-步骤5 / Step 5：外部观察者看到："这个人不来看孩子" → 她是不负责任的
-   Outsiders see: "this person doesn't visit" → she's irresponsible
+步骤4 / Step 4：时间推移 → 介质对承控者的记忆淡化 → "对方很久没来了"
+   Time passes → conduit's memory of controlled fades → "they haven't come in a long time"
+步骤5 / Step 5：外部观察者看到："这个人不来看孩子" → 不负责任的
+   Outsiders see: "this person doesn't visit" → irresponsible
 
 每一步，都是设计好的。 / Every step is designed.
 ```
 
-### 机制2 / Mechanism 2：叙事植入 / Narrative Implantation — 让承控者在介质心里"犯罪" / Making Her "Guilty" in the Conduit's Mind
+### 机制2 / Mechanism 2：叙事植入 / Narrative Implantation — 让承控者在介质心里"犯罪" / Making One "Guilty" in the Conduit's Mind
 
 ```
 核心操作 / Core operation：利用介质还不具备判断能力的年龄窗口，植入叙事。
 Exploit the age window when the conduit lacks independent judgment — implant narratives.
 
-"她不要你了"——抛弃叙事 / Abandonment narrative
-"她是坏人"——道德审判叙事 / Moral condemnation narrative
-"她让你受的苦"——转移责任叙事（施暴后果归因于她）/ Blame-shifting narrative
+"对方不要你了"——抛弃叙事 / Abandonment narrative
+"对方是坏人"——道德审判叙事 / Moral condemnation narrative
+"对方让你受的苦"——转移责任叙事（施暴后果归因于承控者）/ Blame-shifting narrative
 
 这些叙事在孩子具备独立判断力前就被植入。
 等到孩子能自己判断——基础框架已被污染。
-会用"她抛弃了我"这个前置信念去解释一切。
-她的所有行为都通过这个扭曲的滤镜被观看。
+会用"被抛弃了"这个前置信念去解释一切。
+承控者的所有行为都通过这个扭曲的滤镜被观看。
 These narratives are implanted before independent judgment develops.
 When the child can judge — the foundational framework is already contaminated.
 "Abandonment" becomes the pre-loaded belief through which everything is interpreted.

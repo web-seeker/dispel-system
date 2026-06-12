@@ -1,11 +1,11 @@
 ---
 name: self-deceiving-controller
 description: >
-  自欺型操控者深度模型。揭示暴力与理智如何在同一人身上共存、他的自欺系统如何运作、他为什么永不改变、以及他最致命的护盾是什么。
-  Self-Deceiving Controller — How violence and rationality coexist in one person. How his self-deception system operates. Why he never changes. And what his deadliest shield is.
+  自欺型操控者深度模型。揭示暴力与理智如何在同一人身上共存、自欺系统如何运作、被操控者为什么永不改变、以及最致命的护盾是什么。
+  Self-Deceiving Controller — How violence and rationality coexist in one person. How the self-deception system operates. Why they never change. And what their deadliest shield is.
 trigger_words: >
-  他为什么能这样 why can he do this, 施暴者 abuser, 控制型人格 controlling personality,
-  他不觉得自己有错 he doesn't think he's wrong, 他是不是有问题 is something wrong with him
+  为什么能这样 why can they do this, 施暴者 abuser, 控制型人格 controlling personality,
+  不觉得自己有错 doesn't think they're wrong, 是不是有问题 is something wrong
 ---
 
 # 自欺型操控者 / Self-Deceiving Controller
@@ -15,7 +15,7 @@ trigger_words: >
 
 ⚠️ **安全声明 / Safety Note：** 本技能是角色模型分析工具。如分析涉及真实人物的安全风险，必须先参考 `dispel` 技能的**安全边界（〇节）**和**危险升级触发器**。安全永远优先于分析。This is a character model analysis tool. If the analysis involves real persons with safety risks, consult the safety boundaries and danger escalation triggers in the `dispel` skill first. Safety always comes before analysis.
 
-🔗 **系统定位 / System Position：** 本技能是 [dispel](dispel.md) 破幻技能体系的一环——分析施加者角色。相关角色技能：此人可能是 [cycle-originator](cycle-originator.md)（循环源代码）的产物；他通过 [control-conduit](control-conduit.md)（控制介质）实现关系切断后的持续控制；他的对立面是 [weaponized-virtue](weaponized-virtue.md)（被征用美德的承控者）。在完整分析中与 `dispel` 主技能配合使用。This skill is part of the Dispel system. Related skills: this person may be a product of cycle-originator; uses control-conduit for post-separation control; opposite pole is weaponized-virtue. Use with `dispel` for full analysis.
+🔗 **系统定位 / System Position：** 本技能是 [dispel](dispel.md) 破幻技能体系的一环——分析施加者角色。相关角色技能：此人可能是 [cycle-originator](cycle-originator.md)（循环源代码）的产物；通过 [control-conduit](control-conduit.md)（控制介质）实现关系切断后的持续控制；对立面是 [weaponized-virtue](weaponized-virtue.md)（被征用美德的承控者）。在完整分析中与 `dispel` 主技能配合使用。This skill is part of the Dispel system. Related skills: this role may be a product of cycle-originator; uses control-conduit for post-separation control; opposite pole is weaponized-virtue. Use with `dispel` for full analysis.
 
 ---
 
@@ -64,14 +64,14 @@ Each step is internally perfect. He is not lying — **he completes self-persuas
 | **时间选择性 / Time selectivity** | 在有人报警/警告后长时间收手——直到威慑消退 / Stops for extended periods after police/warning — until deterrence fades |
 | **空间选择性 / Space selectivity** | 在家施暴，在公共场合扮演正常甚至优秀的人 / Violent at home; performs normalcy or excellence in public |
 
-**"拿到正式警告后一年多没动手"——这就是他拥有完整自控力的铁证。**
+**"拿到正式警告后一年多没动手"——这就是完整自控力的铁证。**
 **"After receiving an official warning, no violence for over a year" — this is ironclad proof of complete self-control.**
 
-暴力不是"控制不住"。暴力是"不想控制"。当面临真实后果时，他能控制得完美无缺。当后果消退，暴力恢复。
+暴力不是"控制不住"。暴力是"不想控制"。当面临真实后果时，能够控制得完美无缺。当后果消退，暴力恢复。
 Violence is not "can't control." Violence is "chooses not to control." When facing real consequences, control is perfect. When consequences fade, violence resumes.
 
-**他的暴力是一个工具，不是一种失控。他是施暴行为的 CEO，不是受害者。**
-**His violence is a tool, not a loss of control. He is the CEO of his violence, not its victim.**
+**暴力是工具，不是失控。施暴者不是受害者。**
+**The violence is a tool, not a loss of control. The perpetrator is not the victim.**
 
 ### 机制3 / Mechanism 3：间歇性温情的真正功能 / The True Function of Intermittent Tenderness
 
@@ -97,12 +97,12 @@ Fear alerts you. Tenderness gives you hope. Fear + Hope = Addiction.
 **被困住的不是他的暴力。是暴力后他擦眼泪的那只手。**
 **What traps you is not his fist. It's the hand that wipes your tears after.**
 
-### 机制4 / Mechanism 4：受害者护盾 / The Victim Shield — 他最强大的武器 / His Most Powerful Weapon
+### 机制4 / Mechanism 4：受害者护盾 / The Victim Shield — 最强大的武器 / The Most Powerful Weapon
 
-他在自己身上包裹了一个**受害者身份** / He wraps himself in a **victim identity**：
+在自身外部包裹一个**受害者身份** / Wrapping in a **victim identity**：
 
-- 对第三人 / To third parties："她打我七八次我才打她一次" "She hit me seven or eight times; I only hit her once"
-- 对自己 / To himself："我从小就想自杀，我是被伤害的人" "I've wanted to die since childhood; I am the wounded one"
+- 对第三人 / To third parties："对方打了我七八次我才打一次" "They hit me seven or eight times; I only hit once"
+- 对自己 / To self："我从小就想自杀，我是被伤害的人" "I've wanted to die since childhood; I am the wounded one"
 - 对社会 / To society："我是被前伴侣迫害的可怜人" "I am the poor soul persecuted by my former partner"
 
 这个护盾同时提供 / This shield simultaneously provides：
@@ -110,8 +110,8 @@ Fear alerts you. Tenderness gives you hope. Fear + Hope = Addiction.
 | 功能 Function | 效果 Effect |
 |---------------|------------|
 | **道德通行证 / Moral passport** | "我不是施暴者"——所以不需要改变 / "I'm not the abuser" — so no need to change |
-| **社会保护网 / Social safety net** | 不明真相的人替他说话 / Unknowing people speak for him |
-| **自我豁免权 / Self-exemption** | 他不需要面对自己的暴力——问题永远是对方的 / He never faces his own violence — the problem is always the other |
+| **社会保护网 / Social safety net** | 不明真相的人为施暴者说话 / Unknowing people speak for the perpetrator |
+| **自我豁免权 / Self-exemption** | 不需要面对自己的暴力——问题永远是对方的 / Never facing one's own violence — the problem is always the other |
 | **策略灵活性 / Strategic flexibility** | 可随时切换角色：受害者/痴情者/负责任的保护者 / Can switch roles anytime: victim / devoted lover / responsible protector |
 
 **这个护盾最难打破的原因是：它需要外部人同时看到多个面向——家庭内的暴力、外的表演、对内撒的谎。一般人只能看到一个侧面。**
