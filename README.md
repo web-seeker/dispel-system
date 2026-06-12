@@ -1,6 +1,6 @@
 # 破幻 Dispel — Relationship Control System Lens
 
-**看穿控制系统的结构化分析系统。不需要经历完整暴力循环就能清醒。**
+**看穿控制系统的结构化分析系统。不需要经历完整循环就能清醒。**
 **A structured analysis system for seeing through control systems. Clarity without having to live through the full cycle.**
 
 > 这不是情感咨询。不是心理治疗。不是"好还是坏"的道德判断。
@@ -13,7 +13,7 @@
 
 ## The Problem
 
-在控制型关系中，最致命的事情从来不是暴力本身。是**看不清**。
+在控制型关系中，最致命的事情从来不是伤害本身。是**看不清**。
 
 当一个人还在想"对方是不是有问题"的时候，自尊已被系统性蚕食。当还在问"是不是我太敏感"的时候，经济、社会网络、自我判断力已被层层拆除。当终于确认"我该离开"的时候——已经被困在一个没有能力离开的系统里。
 
@@ -67,8 +67,8 @@
 
 | Model | Core Question |
 |-------|--------------|
-| **Self-Deceiving Controller** | How do violence and rationality coexist in one person? |
-| **Cycle Originator** | Who produces the controller? How does violence transmit? |
+| **Self-Deceiving Controller** | How can harm and rationality coexist in one person? |
+| **Cycle Originator** | Who produces the controller? How does the pattern transmit? |
 | **Weaponized Virtue** | Why are the best people trapped the longest? |
 | **System Collaborator** | Why do people who seem to help you actually lock the door? |
 | **Control Conduit** | After the relationship ends, how does control continue? |
@@ -109,7 +109,7 @@ skills/
 系统的参数不是来自理论推演——是来自真实经历中的行为模式反复提取。经过匿名化、一般化处理后，形成功能化的分析工具。每一行代码都有真实的根基。
 
 ### 5. 安全先于分析
-系统内置安全边界（6个致命危险触发器 + 5个高风险触发器 + 数字安全提示）。在分析开始前必须先排除生命危险。没有哪个分析比一条人命更重要的。
+系统内置安全边界（6个危急信号触发器 + 5个高风险触发器 + 数字安全提示）。在分析开始前必须先确保安全。没有哪个分析比安全更重要的。
 
 ### 6. 双语 — 中英双语同文档
 所有技能文件是中英双语交错编写，全球用户可以用同一份文档获取同等质量的分析。
