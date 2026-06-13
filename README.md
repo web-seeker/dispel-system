@@ -13,6 +13,7 @@
 # 破幻 Dispel — Relationship Control System Lens
 
 > **看穿控制系统的结构化分析系统。不需要经历完整循环就能清醒。**
+>
 > **A structured analysis system for seeing through control systems. Clarity without having to live through the full cycle.**
 
 ---
