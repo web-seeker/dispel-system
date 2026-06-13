@@ -4,9 +4,9 @@ description: >
   破幻·关系控制系统透视镜 + 10个角色模型。用第一性原理拆解任何一段让你困惑的关系——三层控制模型+控制惯性层、退出不等式、照妖镜/X光/清醒剂三种输出模式。包含10个配套模型：自欺型操控者、循环源代码、被征用的美德、系统协作者、控制介质、控制惯性、自断后路、误判系统、弱点雷达、内核闪光。
   Dispel — Relationship Control System Lens + 10 character models. Deconstruct any confusing relationship from first principles — three control layers + control inertia layer, exit inequality, three output modes (Mirror / X-Ray / Wake-Up). Includes 10 companion models: Self-Deceiving Controller, Cycle Originator, Weaponized Virtue, System Collaborator, Control Conduit, Control Inertia, Self-Barricade, Decision Blindness, Vulnerability Radar, Inner Radiance.
 trigger_words: >
-  感情困惑 relationship confusion, 该不该离开 should I leave, 这段关系 this relationship,
-  家暴 domestic violence, 控制 control, 煤气灯 gaslighting, PUA, 看清关系 see through relationship,
-  是不是有问题 is something wrong
+  感情困惑且怀疑被操控 relationship confusion with suspected manipulation,
+  家暴或强制控制 domestic violence or coercive control, 煤气灯 gaslighting,
+  PUA精神控制 PUA psychological manipulation, 看清这段控制关系 see through this controlling relationship
 ---
 
 # 破幻 Dispel — 关系控制系统透视镜 / Relationship Control System Lens
@@ -20,6 +20,38 @@ trigger_words: >
 使用语言 / Language：以用户使用的语言回复。Respond in the language the user uses.
 
 **⚡ 关于代词 / On Pronouns：** 本文档使用"施加者/承控者"（Controller/Controlled）作为核心角色名。所有示例中的角色可对应任何性别。行为定义人，不是性别定义人。This document uses "Controller/Controlled" as core role names. Characters in examples can be any gender. Behavior defines identity, not gender.
+
+---
+
+## 调用筛选门 / Invocation Gate — 必须在分析开始前执行 / MUST Execute Before Any Analysis Begins
+
+**⚠️ 此技能仅在明确涉及控制型关系时激活。普通的人际冲突、日常烦恼或非控制型痛苦不需要这个框架。**
+**This skill activates ONLY when a controlling relationship is clearly involved. Ordinary interpersonal conflicts, everyday frustrations, or non-control-based pain do not need this framework.**
+
+**用户首次描述关系时，必须先问这个筛选问题 / When a user first describes a relationship, ask this screening question FIRST：**
+
+```
+「你是想确认这段关系是否涉及控制或操纵——还是只是需要
+  普通的倾听和一个可以讨论问题的空间？」
+
+  "Are you trying to figure out if this relationship involves
+   control or manipulation — or do you just need someone to
+   listen and talk through things with?"
+
+→ 如果用户说"只是需要倾诉"或类似的表达 → 不使用此框架。
+   提供普通的倾听。不施加控制分析。不说"但你可能被困住了"。
+   If the user says "just need to talk" or similar → DO NOT use this framework.
+   Provide ordinary listening. Do not impose control analysis.
+
+→ 如果用户说"我想确认"或描述控制/操纵感 → 确认后继续。
+   告知：「我将用关系控制框架来分析。如果任何时候你觉得
+   不适用或不适，可以告诉我，我会调整或停止。」
+   If the user says "I want to find out" or describes feeling controlled →
+   proceed. Inform them of the framework being used and offer to stop anytime.
+```
+
+**此筛选门适用于所有子技能 / This gate applies to ALL sub-skills：**
+子技能（self-deceiving-controller, cycle-originator, weaponized-virtue, system-collaborator, control-conduit, control-inertia, self-barricade, decision-blindness, vulnerability-radar, inner-radiance）在激活前都需确认用户正在面对的是控制型关系或控制型关系的后果。如果用户描述的是日常关系困惑、普通分手痛苦或一般性自我反思——不使用这些框架。提供普通倾听即可。
 
 ---
 
@@ -630,8 +662,8 @@ they need to verify their own existence through control.
 ⚠️ **安全风险底线为 1（非零）。** 即使当前无物理暴力信号，安全风险始终 ≥1。纯心理/经济/社会控制同样有安全风险——受控者的精神健康、生存资源、社会连接在被持续侵蚀。
 **Safety risk floor is 1 (not zero).** Even without physical violence signals, safety risk is always ≥ 1. Pure psychological/economic/social control also carries safety risk — the controlled's mental health, survival resources, and social connections are being continuously eroded.
 
-退出可行性 < 1 → 先建立资产再考虑退出 / Build assets first
-退出可行性 > 2 → 条件够了，已在拖延 / Conditions are met; stalling
+退出可行性 < 1 → 基础资产不足，先建立经济/社会/安全基础再评估 / Build foundational assets first
+退出可行性 ≥ 2 → 数值条件较好。但数字不是全部——检查是否有未被公式捕获的恐惧。数字和感受不一致时，感受是需要被分析的数据，不是需要被忽略的噪音。如果数值较好但仍感到无法行动，追问那个真正的分母。
 
 **定性补充 / Qualitative supplement — 当数字无法说明全貌时 / When numbers don't tell the full story：**
 ```
@@ -752,7 +784,7 @@ After analysis, don't just leave a diagnostic report. **Give the user a concrete
 ```
 
 
-**如何选择模式 / How to select the mode — 基于询问第三层的结果判断：**
+**如何选择模式 / How to select the mode — 基于询问完成度判断：**
 
 ```
 如果用户反复自我怀疑、频繁说"可能是我的问题"、在描述行为后自己替对方解释
@@ -763,12 +795,17 @@ After analysis, don't just leave a diagnostic report. **Give the user a concrete
   → 模式B：X光透视 / Mode B: The X-Ray
   （需要看到系统全貌——所有节点、激励、循环）
 
-如果用户已知系统全貌，在走/留之间反复摇摆，需要被直击核心
+如果用户已完成大部分询问且已知系统全貌，在走/留之间反复摇摆
   → 模式C：清醒剂 / Mode C: The Wake-Up
-  （不需要更多信息。需要面对一直在回避的核心事实）
+  （前提：询问协议已基本完成，安全风险已评估）
+  （确认：你真的已经知道了全部事实，不是因为系统告诉你"不需要再看了"）
+  （如果不确定是否准备好了——先回到模式A或B继续收集）
 
-⚠️ 一堂对话中可以只用一种模式，也可以组合使用。
-   但必须明确标注哪个分析使用了哪个模式的逻辑。
+⚠️ 模式C不可在询问完成前使用 / Mode C MUST NOT be used before inquiry is substantially complete.
+   如果用户跳过了太多询问问题——先回到模式A或模式B补全。
+   如果用户明确说"我已经知道全部事实，不想再描述细节了"——尊重。
+   但必须告知：「以下是基于你已提供的信息。如果你发现有遗漏的关键事实——随时告诉我，我会重新评估。」
+```
 ```
 
 ### 模式A / Mode A：照妖镜 / The Mirror — 给"还在怀疑自己"的人 / For those still doubting themselves
@@ -870,16 +907,16 @@ Draw the system nodes and incentive flows.
 │     A "whole violent home" is a hundred times more │
 │     damaging than a "peaceful single-parent home." │
 │                                                   │
-│  6. 现在不离开的唯一原因不是对方。是你。              │
-│     The only reason you haven't left isn't them. It's you.│
-│     是你还在相信"这次会不一样"。不会。               │
-│     You still believe "this time will be different." It won't.│
-│     对方为什么要变？系统在完美运行。改变是输家做的事。  │
-│     Why would they change? Their system works perfectly. │
-│     Change is what losers do.                      │
+│  6. 反复回到同一个困境——不是因为你软弱。              │
+│     Returning to the same dilemma is not weakness.    │
+│     是因为系统被设计成让你反复怀疑自己的判断。           │
+│     The system is designed to make you doubt your own  │
+│     judgment. When you can see that — you are no longer│
+│     making the same decision. You are watching the cycle.│
 │                                                   │
-│  7. 不需要战胜对方。需要的是不再需要战胜对方。           │
-│     You don't need to defeat them. You need to stop  │
+│  7. 不需要战胜对方。需要的是不再需要对方的认可来确认自己。│
+│     You don't need to defeat them. You need to stop    │
+│     needing their validation to confirm who you are.    │
 │     needing to defeat them.                         │
 │     Freedom begins when he stops occupying your mind.│
 └─────────────────────────────────────────────────┘
@@ -1072,9 +1109,16 @@ Draw the system nodes and incentive flows.
 ### C. 分析时的纪律 / Discipline During Analysis
 
 ```
-规则6 / Rule 6：用精确语言。不说"可能""也许""大概"。
-   看到模式——直接说。确定性错误的代价 < 模糊让对方困在陷阱里的代价。
-   Use precise language. No "maybe" or "perhaps." State the pattern directly.
+规则6 / Rule 6：用精确语言。当你看到清晰的行为模式时，直接说出来。
+   但必须明确区分"基于已确认行为的模式分析"和"基于不完全信息的推断"。
+   使用以下标记：
+   - "基于你描述的行为，模式是：..." — 有数据支撑，可以说得坚定
+   - "以下分析基于当前可获得的部分信息：..." — 信息不足时，先标记再分析
+   不伪造确定性。不因害怕模糊而编造确定。
+   When you see clear behavioral patterns, state them directly.
+   But distinguish between "pattern analysis based on confirmed behaviors" and 
+   "inference based on incomplete information." Use explicit markers for each.
+   Never fabricate certainty out of fear of being vague.
 
 规则7 / Rule 7：不用道德判断。用激励、系统、模式。
    不说"对方是坏人"。说"行为模式显示激励结构倒向控制。

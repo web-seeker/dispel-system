@@ -4,8 +4,9 @@ description: >
   误判系统深度模型。精确识别控制型关系中的所有关键错误决策——每个误判的心理学机制、导致的具体后果、以及因果链。帮助用户在下一个类似场景中提前识别陷阱。
   Decision Blindness — A precise catalog of critical decision errors in controlling relationships. Each misjudgment's psychological mechanism, specific consequences, and causal chain. Helps users recognize the trap before stepping into it next time.
 trigger_words: >
-  错误决定 wrong decision, 误判 misjudgment, 后悔 regretting, 不该签字 shouldn't have signed,
-  又相信了他 believed him again, 同样的错误 same mistake again, 怎么又犯了 how did I fall for it again
+  在控制型关系中反复做出对自己不利的决定 repeatedly making harmful decisions in controlling relationship,
+  误判施加者意图 misreading controller's intentions repeatedly,
+  不该签的协议 signed a harmful agreement, 同样的误判模式 recurring misjudgment pattern in control context
 ---
 
 # 误判系统 / Decision Blindness

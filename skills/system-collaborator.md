@@ -4,8 +4,9 @@ description: >
   系统协作者深度模型。揭示那些看似站在你这边、实际在加固控制系统的人——他们的激励结构、自欺机制、在系统中扮演的角色。
   System Collaborator — Those who seem to stand by you but actually reinforce the control system. Their incentive structures, self-deception mechanisms, and role in the system.
 trigger_words: >
-  我妈说 my mom says, 朋友劝我 friends advise me, 家人不理解 family doesn't understand,
-  他们都说 everyone says, 劝和不劝离 advised to stay, 为了家庭完整 for family wholeness
+  身边人在控制型关系里站对方那边 people around siding with the controller,
+  家庭/朋友劝合不劝分 family/friends pressuring to stay when there are control signals,
+  旁观者加固了控制关系 bystanders reinforcing the controlling dynamic
 ---
 
 # 系统协作者 / System Collaborator

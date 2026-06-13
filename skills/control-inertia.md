@@ -4,9 +4,10 @@ description: >
   控制惯性层深度模型。揭示为什么关系结束后控制系统仍然自动运行——机器的五层架构、能量来源、运行循环、以及让系统永久失效的五步销毁协议。
   Control Inertia — Why the control system keeps running after the relationship ends. The machine's five-layer architecture, energy source, operating cycle, and the five-step protocol to permanently disable it.
 trigger_words: >
-  关系结束后还纠缠 still entangled after breakup, 为什么走不出来 why can't I move on,
-  通过第三方控制 controlling through a third party, 系统还在运行 system still running,
-  放不下 can't let go 好像赢了 seems like they won
+  关系结束后还被控制 still controlled after breakup/separation,
+  为什么走不出控制模式 why can't I escape the control pattern,
+  通过第三方持续操控 ongoing control through third party,
+  系统还在运行 the control system is still running after separation
 ---
 
 # 控制惯性 / Control Inertia
@@ -192,6 +193,14 @@ trigger_words: >
 ---
 
 ## 六 / VI. 永久失效的五步销毁协议 / Five-Step Disable Protocol
+
+⚠️ **重要警告 / IMPORTANT WARNING：此协议不是自助指南。以下步骤涉及切断联系、法律沟通、财务变动、第三方协商和心理重塑——这些行动可能产生法律后果、安全风险或心理冲击。在执行任何步骤之前：**
+- 先通过 `dispel` 主技能完成安全风险评估
+- 如果安全风险 ≥ 5 → 先确保物理安全，再考虑其他步骤
+- 涉及法律步骤时 → 咨询当地持牌律师
+- 涉及心理重塑时 → 在专业支持下进行，而非独自进行
+- **此协议描述的是系统失效的机制原理，不是鼓励用户冒险自行执行。安全永远优先于"让机器失效"。**
+**This protocol is NOT a self-help guide. These steps involve contact changes, legal communication, financial actions, and psychological reframing — all of which may have legal consequences, safety risks, or psychological impact. Complete safety assessment first. Consult professionals before legal/financial steps. Safety ALWAYS comes before "disabling the machine."**
 
 要让机器永久彻底失效，必须同时满足以下条件。**缺少任何一个，机器都会从剩余节点重新生长。**
 

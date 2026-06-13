@@ -4,8 +4,9 @@ description: >
   自断后路模式深度模型。揭示被控制者如何亲手拆除自己的退路——四层瓦解机制、条件制造闭环、以及从"不需要任何人"到"有选择地连接"的重建路径。
   Self-Barricade — How the controlled person systematically demolishes their own escape routes. The four-layer disintegration mechanism, the condition-manufacturing loop, and the path from "I don't need anyone" to "I choose whom to connect with."
 trigger_words: >
-  自断后路 cutting off escape routes, 没有人帮我 no one helps me, 我不需要任何人 I don't need anyone,
-  孤立自己 isolating myself, 切断联系 cutting ties, 我不再相信任何人 I trust no one
+  在控制关系中自断后路 cutting off own escape routes in controlling relationship,
+  孤立自己（因受控经历） isolating after control experience,
+  切断所有联系后感觉更糟 cut all ties and felt worse afterward
 ---
 
 # 自断后路 / Self-Barricade

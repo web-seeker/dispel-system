@@ -4,9 +4,10 @@ description: >
   被征用的美德深度模型。揭示为什么最好的人被困最久——共情、善良、宽恕、希望如何被系统性地转化为控制工具。
   Weaponized Virtue — Why the best people stay trapped the longest. How empathy, kindness, forgiveness, and hope are systematically converted into control tools.
 trigger_words: >
-  为什么走不了 why can't I leave, 明知道有问题 but I know there's a problem but,
-  好的时候真的很好 when it's good it's really good, 是不是太心软 too soft-hearted,
-  再给一次机会 give another chance, 为了孩子 for the children
+  为什么反复原谅施控者、走不了 but stuck in controlling relationship,
+  明知有问题 but I know there's a control pattern but can't leave,
+  好的时候很好 when not controlling they're good,
+  总在给机会 keep giving chances in controlling relationship
 ---
 
 # 被征用的美德 / Weaponized Virtue

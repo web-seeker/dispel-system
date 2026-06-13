@@ -4,9 +4,10 @@ description: >
   内核闪光深度模型。系统化挖掘一个人最核心的、不可被剥夺的内在光源——那个在无论什么系统中都未曾熄灭的内核。包含五步挖掘协议、三重验证、交叉确认机制、闪光延展路径。帮助任何用户看见自己、确认自己、延展自己，成为自己最稳定的光源。
   Inner Radiance — A systematic excavation protocol for the one core light that cannot be taken away: the indestructible inner witness. Includes a five-step excavation protocol, triple verification, cross-confirmation mechanisms, and radiance expansion pathways. Helps any user see themselves, confirm themselves, and expand themselves — becoming their own most stable source of light.
 trigger_words: >
-  我的闪光点 my strength, 我擅长什么 what am I good at, 我的核心是什么 what is my core,
-  看见自己 see myself, 自我价值 self-worth, 我相信自己 I believe in myself,
-  内核 core self, 不可被剥夺 what can't be taken, 真正的我 the real me, 发现闪光 discover my light
+  经历控制关系后寻找自己的核心闪光 finding core self after controlling relationship,
+  我的核心是什么（控制关系幸存者层面） what is my indestructible core as a control survivor,
+  自我价值重建 self-worth rebuilding after toxic relationship,
+  不可被剥夺的内在 the untakeable inner self
 ---
 
 # 内核闪光 / Inner Radiance
@@ -41,16 +42,26 @@ trigger_words: >
    Radiance is what carried you through. Not a reason to deny what happened.
 ```
 
-### 用户状态检查 / User State Check
+### 用户状态检查 / User State Check — 在挖掘开始前必须完成 / MUST Complete Before Excavation
 
 ```
-开始挖掘前，先确认用户的状态：
+⚠️ 重要：此技能的挖掘练习会引导用户回顾"黑暗时期"、被否认的经历、高压力时刻和创伤相似事件。
+   如果你正处在以下状态，此技能不适用，请先寻求专业支持：
 
-☐ 用户正在寻求"自我价值感" → 适合使用本技能
-☐ 用户正在低谷中，想找到自己的核心 → 适合使用本技能
-☐ 用户处于严重抑郁/解离状态 → 不适使用。先转介专业支持。
-☐ 用户处于急性创伤期 → 不适使用。先稳定。
-☐ 用户处于控制系统内部（仍在被控制中）→ 先用dispels主技能评估安全，再考虑使用此技能
+☐ 过去72小时内有过自杀念头或解离体验 → 请先联系危机干预服务或信任的人
+☐ 处于严重抑郁/解离状态 → 不适使用。本技能的回顾性练习可能加重症状。
+☐ 处于急性创伤期（创伤事件发生不到3个月）→ 不适使用。创伤整合需要专业指导。
+☐ 目前仍处于控制系统内部（仍在被施加者操控）→ 先用dispel主技能评估安全。
+
+✅ 适合使用此技能的状态：
+☐ 用户寻求"自我价值感"探索，不在急性危机中
+☐ 用户已脱离控制系统，正在重建期
+☐ 用户在安全环境中，能承受回顾性反思
+
+告知用户 / Tell the user：
+"以下练习涉及回顾你可能经历过的困难时刻。你可以在任何时候停下来。
+如果某个问题让你感到不适，跳过它——不需要解释为什么。
+这不是逃避。这是保护自己。"
 ```
 
 ---

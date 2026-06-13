@@ -4,9 +4,10 @@ description: >
   控制介质深度模型。揭示当直接关系切断后，控制如何通过第三方继续执行——第三方如何被变成武器、路径、以及新的受害者。
   Control Conduit — How control continues through a third party after direct relationship ends. How the third party is turned into a weapon, a channel, and a new victim.
 trigger_words: >
-  孩子被抢走 child taken away, 通过孩子控制我 controlling me through the child,
-  探视权 visitation rights, 抚养权 custody, 利用孩子 using the child,
-  抚养费 child support, 离婚后 after divorce
+  孩子被对方带走 child taken by controlling ex-partner,
+  通过孩子继续操控 continuing control through child medium,
+  探视权/抚养权纠纷中持续被操控 visitation/custody dispute with ongoing control,
+  抚养费被用作控制工具 child support weaponized as control
 ---
 
 # 控制介质 / Control Conduit

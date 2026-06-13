@@ -4,8 +4,9 @@ description: >
   循环源代码深度模型。揭示控制型人格的制造者——谁在生产暴力、如何跨代传递、制造者的激励机制是什么。
   Cycle Originator — Who produces the controller. How violence transmits across generations. What the maker's incentive structure is.
 trigger_words: >
-  原生家庭 family of origin, 代际传递 generational transmission, 父母也这样 parents are the same,
-  暴力是怎么来的 where violence comes from, 制造者 originator, 长辈 elder, 代际 trauma generational
+  原生家庭与控制模式 family of origin and controlling patterns,
+  代际传递的暴力行为 violent behavior transmitted across generations,
+  施控者是如何被制造出来的 how was the controller produced
 ---
 
 # 循环源代码 / Cycle Originator

@@ -4,8 +4,9 @@ description: >
   自欺型操控者深度模型。揭示暴力与理智如何在同一人身上共存、自欺系统如何运作、被操控者为什么永不改变、以及最致命的护盾是什么。
   Self-Deceiving Controller — How violence and rationality coexist in one person. How the self-deception system operates. Why they never change. And what their deadliest shield is.
 trigger_words: >
-  为什么能这样 why can they do this, 施暴者 abuser, 控制型人格 controlling personality,
-  不觉得自己有错 doesn't think they're wrong, 是不是有问题 is something wrong
+  为什么伤害了我还不觉得自己有错 why does the controller think they're not wrong after harm,
+  施暴者同时理智施行虐待 abuser who is simultaneously rational and violent,
+  控制型人格分析 analyzing controlling personality in a harmful relationship
 ---
 
 # 自欺型操控者 / Self-Deceiving Controller
