@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/dispel-logo.webp" width="200" alt="破幻 Dispel Logo"/>
+  <img src="assets/dispel-logo.png" width="360" alt="破幻 Dispel Logo"/>
 </p>
 
 # 破幻 Dispel — Relationship Control System Lens
