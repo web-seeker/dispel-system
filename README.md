@@ -61,8 +61,7 @@
 
 六个核心输出维度，覆盖从"还在自我怀疑"到"知道该做什么"的完整路径。
 
-<h2 class="sr-only">破幻技能能力全貌：六个核心输出维度</h2>
-<div style="font-family: var(--font-sans); padding: 8px 0;">
+<div style="padding: 8px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px;">
 
     <div style="background: #EEEDFE; border-radius: 10px; padding: 14px 16px;">
@@ -315,7 +314,7 @@
   <line x1="472" y1="280" x2="370" y2="228" stroke="#E8B84B" stroke-width="0.5" stroke-dasharray="4,3"/>
   <line x1="604" y1="280" x2="390" y2="228" stroke="#22C55E" stroke-width="0.5" stroke-dasharray="4,3"/>
 
-  <text font-family="sans-serif" font-size="10" fill="#888780" text-anchor="middle" x="340" y="400">八个角色围绕「关系控制系统」。每个都是独立可用的功能化分析工具。</text>
+  <text font-family="sans-serif" font-size="10" fill="#888780" text-anchor="middle" x="340" y="400">十个角色围绕「关系控制系统」。每个都是独立可用的功能化分析工具。</text>
 </svg>
 
 | # | 角色 | 核心问题 | 揭示什么 |
