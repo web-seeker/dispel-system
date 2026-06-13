@@ -4,6 +4,12 @@
   <img src="https://img.shields.io/badge/status-open--source-informational?style=flat-square" alt="Open Source">
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="assets/dispel-logo.webp" width="200" alt="破幻 Dispel Logo"/>
+</p>
+
 # 破幻 Dispel — Relationship Control System Lens
 
 > **看穿控制系统的结构化分析系统。不需要经历完整循环就能清醒。**
