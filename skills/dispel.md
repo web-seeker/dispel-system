@@ -1,8 +1,8 @@
 ---
 name: dispel-system
 description: >
-  破幻·关系控制系统透视镜 + 9个角色模型。用第一性原理拆解任何一段让你困惑的关系——三层控制模型+控制惯性层、退出不等式、照妖镜/X光/清醒剂三种输出模式。包含9个配套模型：自欺型操控者、循环源代码、被征用的美德、系统协作者、控制介质、控制惯性、自断后路、误判系统、弱点雷达。
-  Dispel — Relationship Control System Lens + 9 character models. Deconstruct any confusing relationship from first principles — three control layers + control inertia layer, exit inequality, three output modes (Mirror / X-Ray / Wake-Up). Includes 9 companion models: Self-Deceiving Controller, Cycle Originator, Weaponized Virtue, System Collaborator, Control Conduit, Control Inertia, Self-Barricade, Decision Blindness, Vulnerability Radar.
+  破幻·关系控制系统透视镜 + 10个角色模型。用第一性原理拆解任何一段让你困惑的关系——三层控制模型+控制惯性层、退出不等式、照妖镜/X光/清醒剂三种输出模式。包含10个配套模型：自欺型操控者、循环源代码、被征用的美德、系统协作者、控制介质、控制惯性、自断后路、误判系统、弱点雷达、内核闪光。
+  Dispel — Relationship Control System Lens + 10 character models. Deconstruct any confusing relationship from first principles — three control layers + control inertia layer, exit inequality, three output modes (Mirror / X-Ray / Wake-Up). Includes 10 companion models: Self-Deceiving Controller, Cycle Originator, Weaponized Virtue, System Collaborator, Control Conduit, Control Inertia, Self-Barricade, Decision Blindness, Vulnerability Radar, Inner Radiance.
 trigger_words: >
   感情困惑 relationship confusion, 该不该离开 should I leave, 这段关系 this relationship,
   家暴 domestic violence, 控制 control, 煤气灯 gaslighting, PUA, 看清关系 see through relationship,
@@ -1130,6 +1130,7 @@ This skill is the analysis engine. The system includes six character models — 
 | `self-barricade` | 真正堵路的人是谁？为什么承控者亲手拆除自己的退路？Who is truly blocking the road? Why does the controlled systematically demolish their own escape routes? |
 | `decision-blindness` | 每个错误决定背后的精确因果链是什么？What is the precise causal chain behind every wrong decision? |
 | `vulnerability-radar` | 你以为是性格的——是什么被制造出来的弱点？What you think is personality — what manufactured vulnerabilities lie beneath? |
+| `inner-radiance` | 有什么在你体内，是任何系统都无法摧毁的？What in you cannot be destroyed by any system? |
 
 ---
 

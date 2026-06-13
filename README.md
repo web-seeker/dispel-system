@@ -163,7 +163,7 @@
 
 ---
 
-### 八个角色模型 / Eight Character Models
+### 十个角色模型 / Ten Character Models
 
 > 功能化工具，不依赖性别与文化身份，适用于任何关系类型。
 
@@ -177,6 +177,7 @@
 | **控制惯性** | 关系结束了，系统为何还在自动运行？ | 机器的五层架构、能量源、销毁协议 |
 | **自断后路** | 真正堵路的人是谁？ | 承控者如何亲手拆除自己的退路 |
 | **误判系统** | 每个错误决定背后的因果链是什么？ | 10个关键误判的心理学机制与后果 |
+| **内核闪光** | 有什么在你体内是任何系统都无法摧毁的？ | 内核见证者与存真本能——不可剥夺的核心本质 |
 
 ## The Core Framework
 
@@ -225,7 +226,9 @@ skills/
 ├── 🩸 control-conduit.md              控制介质模型
 ├── ⚙️  control-inertia.md             控制惯性层模型
 ├── 🧱 self-barricade.md               自断后路模型
-└── 🎯 decision-blindness.md           误判系统模型
+├── 🎯 decision-blindness.md           误判系统模型
+├── 📡 vulnerability-radar.md          弱点雷达模型
+└── ✨ inner-radiance.md               内核闪光模型
 ```
 
 ---
