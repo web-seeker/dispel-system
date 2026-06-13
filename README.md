@@ -302,6 +302,14 @@ MIT · Free to use, fork, improve.
 
 This system's value is measured not by how many people download it, but by how many people it helps see clearly **one day earlier**.
 
+<div align="center">
+  <img src="assets/system-architecture.png" width="800" alt="控制惯性·机器架构图 / Control Inertia · Machine Architecture"/>
+  <br/>
+  <sub><em>控制惯性五层架构 — 关系结束后系统为何仍自动运行 / Why the system keeps running after the relationship ends</em></sub>
+</div>
+
+<br/>
+
 <p align="center">
   <sub>Made with clarity by <a href="https://github.com/web-seeker">web-seeker</a></sub>
 </p>
