@@ -15,12 +15,14 @@
 
 当你终于抬起头，不再盯着那个让你困惑的人，而是看向自己真正能去的地方 — 那个瞬间，就是破幻。
 
-<p align="center">
+当你终于抬起头，不再盯着那个让你困惑的人，而是看向自己真正能去的地方 — 那个瞬间，就是破幻。
+
+<div align="center">
+  <img src="portrait.jpg" alt="Dispel System Portrait" width="760" style="border-radius: 20px; box-shadow: 0 12px 48px rgba(0,0,0,0.22), 0 4px 12px rgba(0,0,0,0.14); display: block; margin: 0 auto 12px auto;">
+  <br>
+  <sub><em>The moment when warm light breaks through cold fog.</em></sub>
+</div>
 <br>
-<img src="portrait.jpg" alt="Dispel System Portrait" width="420" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.18), 0 2px 8px rgba(0,0,0,0.12);">
-<br>
-<sub><em>The moment when warm light breaks through cold fog.</em></sub>
-</p>
 
 ---
 
