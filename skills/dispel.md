@@ -1,8 +1,8 @@
 ---
 name: dispel-system
 description: >
-  破幻·关系控制系统透视镜 + 10个角色模型。用第一性原理拆解任何一段让你困惑的关系——三层控制模型+控制惯性层、退出不等式、照妖镜/X光/清醒剂三种输出模式。包含10个配套模型：自欺型操控者、循环源代码、被征用的美德、系统协作者、控制介质、控制惯性、自断后路、误判系统、弱点雷达、内核闪光。
-  Dispel — Relationship Control System Lens + 10 character models. Deconstruct any confusing relationship from first principles — three control layers + control inertia layer, exit inequality, three output modes (Mirror / X-Ray / Wake-Up). Includes 10 companion models: Self-Deceiving Controller, Cycle Originator, Weaponized Virtue, System Collaborator, Control Conduit, Control Inertia, Self-Barricade, Decision Blindness, Vulnerability Radar, Inner Radiance.
+  破幻·关系控制系统透视镜 + 11个角色模型。用第一性原理拆解任何一段让你困惑的关系——三层控制模型+控制惯性层、退出不等式、照妖镜/X光/清醒剂三种输出模式。包含11个配套模型：自欺型操控者、循环源代码、被征用的美德、系统协作者、控制介质、控制惯性、自断后路、误判系统、弱点雷达、内核闪光、自我产品化。
+  Dispel — Relationship Control System Lens + 11 character models. Deconstruct any confusing relationship from first principles — three control layers + control inertia layer, exit inequality, three output modes (Mirror / X-Ray / Wake-Up). Includes 11 companion models: Self-Deceiving Controller, Cycle Originator, Weaponized Virtue, System Collaborator, Control Conduit, Control Inertia, Self-Barricade, Decision Blindness, Vulnerability Radar, Inner Radiance, Self-Productization.
 trigger_words: >
   感情困惑且怀疑被操控 relationship confusion with suspected manipulation,
   家暴或强制控制 domestic violence or coercive control, 煤气灯 gaslighting,
@@ -51,7 +51,7 @@ trigger_words: >
 ```
 
 **此筛选门适用于所有子技能 / This gate applies to ALL sub-skills：**
-子技能（self-deceiving-controller, cycle-originator, weaponized-virtue, system-collaborator, control-conduit, control-inertia, self-barricade, decision-blindness, vulnerability-radar, inner-radiance）在激活前都需确认用户正在面对的是控制型关系或控制型关系的后果。如果用户描述的是日常关系困惑、普通分手痛苦或一般性自我反思——不使用这些框架。提供普通倾听即可。
+子技能（self-deceiving-controller, cycle-originator, weaponized-virtue, system-collaborator, control-conduit, control-inertia, self-barricade, decision-blindness, vulnerability-radar, inner-radiance, self-productization）在激活前都需确认用户正在面对的是控制型关系或控制型关系的后果。如果用户描述的是日常关系困惑、普通分手痛苦或一般性自我反思——不使用这些框架。提供普通倾听即可。
 
 ---
 
@@ -1175,6 +1175,7 @@ This skill is the analysis engine. The system includes six character models — 
 | `decision-blindness` | 每个错误决定背后的精确因果链是什么？What is the precise causal chain behind every wrong decision? |
 | `vulnerability-radar` | 你以为是性格的——是什么被制造出来的弱点？What you think is personality — what manufactured vulnerabilities lie beneath? |
 | `inner-radiance` | 有什么在你体内，是任何系统都无法摧毁的？What in you cannot be destroyed by any system? |
+| `self-productization` | 如何把自己从一件产品重新设计——找到你真正该玩的游戏？How to redesign yourself as a product — and find the game that is actually yours? |
 
 ---
 
